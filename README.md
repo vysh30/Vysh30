@@ -2,7 +2,7 @@
 
 I'm Vyshnavi 👋
 
-I'm a final-year B.Tech student in Electronics, Communication & Information Engineering at KITS Warangal (2026). I build ML/AI systems that solve real healthcare problems — not just notebook experiments, but deployed, working apps.
+I'm a final-year B.Tech student in Electronics, Communication & Instrumentation Engineering at KITS Warangal (2026). I build ML/AI systems that solve real healthcare problems — not just notebook experiments, but deployed, working apps.
 
 ---## 🚀 Featured project
 
