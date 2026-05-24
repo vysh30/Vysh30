@@ -13,6 +13,14 @@ Built on AHA Blood Pressure classification guidelines. Gives personalised precau
 **Stack:** Python · TensorFlow · CNN · Scikit-learn · HTML/CSS/JS
 🔗 [Live Demo](https://vysh30.github.io/cvd-detection-app/) · [Source](https://github.com/vysh30/cvd-detection-app)
 
+
+### ✅ Task Manager App
+> A clean, browser-based task management app for organising daily work — built entirely with vanilla HTML, CSS & JS.
+
+No frameworks, no dependencies — just fast, functional, and deployable anywhere.
+**Stack:** HTML · CSS · JavaScript
+🔗 [Source](https://github.com/vysh30/task-manager-app)
+
 ---
 
 ## 📌 Currently working on
