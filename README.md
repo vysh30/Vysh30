@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=Hi%2C+I'm+Vyshnavi+%F0%9F%91%8B;ML+%26+AI+Engineer;Building+health-tech+that+matters)](https://git.io/typing-svg)
 
 I'm Vyshnavi 👋
 
