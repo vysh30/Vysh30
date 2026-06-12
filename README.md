@@ -102,8 +102,6 @@ No frameworks, no dependencies — just fast, functional, and deployable anywher
 
 ### ☁️ Deployment & DevOps
 
-### ☁️ Deployment & DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat)
