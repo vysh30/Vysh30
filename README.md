@@ -2,7 +2,7 @@
 
 Machine Learning Engineer · Agentic AI Developer
 Building AI-powered products and intelligent workflows
-
+---
 👋 Hi, I'm Vyshnavi Gandla
 
 AI Engineer · Agentic AI Developer · Automation Builder
@@ -106,8 +106,16 @@ I'm actively looking for **internships, entry-level ML/AI roles, and open-source
   <img src="https://komarev.com/ghpvc/?username=vysh30&color=blueviolet&style=flat" alt="profile views" />
   </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat&logo=html5&logoColor=white)
+---
+
+## 📈 Contribution Activity
+
+A quick note on the contribution graph
+
+This profile documents my journey as an AI Engineer and Agentic AI Developer. Every project pinned above reflects practical work in AI, machine learning, automation, and intelligent systems.
+
+The contribution graph will continue to grow as I build, learn, and ship AI-powered products.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vysh30&theme=github-compact" />
+</p>
