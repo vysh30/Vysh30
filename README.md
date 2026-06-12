@@ -1,12 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=Hi%2C+I'm+Vyshnavi+%F0%9F%91%8B;ML+%26+AI+Engineer;Building+health-tech+that+matters)](https://git.io/typing-svg)
 
+Machine Learning Engineer · Agentic AI Developer
+Building AI-powered products and intelligent workflows
 
+👋 Hi, I'm Vyshnavi Gandla
 
-Hi, I am Vyshnavi Gandla 
-
-Agentic AI Developer · AI/ML Engineer · Automation Builder · India
-
+AI Engineer · Agentic AI Developer · Automation Builder
 I build AI-powered applications, intelligent workflows, and machine learning systems that solve real-world problems.
+
+👩‍💻 About
+
+Electronics Communication & Instrumentation graduate passionate about building AI-powered products.
+
+I work on:
+• Agentic AI Systems
+• Machine Learning
+• RAG Applications
+• n8n Automations
+• Intelligent Workflow Design
+
+I enjoy turning AI concepts into practical applications that solve real-world problems.
 
 ---## 🚀 Featured project
 
