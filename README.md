@@ -2,7 +2,11 @@
 
 
 
-I'm a final-year B.Tech student in Electronics, Communication & Instrumentation Engineering at KITS Warangal (2026). I build ML/AI systems that solve real healthcare problems — not just notebook experiments, but deployed, working apps.
+Hi, I am Vyshnavi Gandla 
+
+Agentic AI Developer · AI/ML Engineer · Automation Builder · India
+
+I build AI-powered applications, intelligent workflows, and machine learning systems that solve real-world problems.
 
 ---## 🚀 Featured project
 
